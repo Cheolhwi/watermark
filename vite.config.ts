@@ -49,5 +49,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['picseal'],
   },
-  // base: 'https://zhiweio.github.io/picseal/',
+  base: '/watermark/',
 })
